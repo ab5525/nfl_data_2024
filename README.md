@@ -10,4 +10,7 @@ https://www.kaggle.com/batandy/nfl-2024/
 https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data
 
 ### Install required packages with conda (and a lot more)
+```console
+conda create -n nfl_data --file req.txt
+```
 conda create -n nfl_data --file req.txt
