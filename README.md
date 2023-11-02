@@ -13,4 +13,6 @@ https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data
 ```console
 conda create -n nfl_data --file req.txt
 ```
-conda create -n nfl_data --file req.txt
+
+### Example of a play in the tracking data
+[Pass Play](scatter2.gif)
