@@ -15,4 +15,4 @@ conda create -n nfl_data --file req.txt
 ```
 
 ### Example of a play in the tracking data
-[Pass Play](scatter2.gif)
+[Pass Play](https://raw.githubusercontent.com/ab5525/nfl_data_2024/main/scatter2.gif)
